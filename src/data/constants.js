@@ -10,7 +10,7 @@ export const Bio = {
     "I am a dedicated and versatile software developer with a strong background in full-stack development and a passion for tackling new challenges. With expertise in C++, Java, and JavaScript frameworks, I strive to deliver high-quality results in every project. My positive attitude and growth mindset drive me to continually learn and adapt, making meaningful contributions to my team and achieving success together. I am excited to leverage my skills and experiences to create impactful solutions.",
   github: "https://github.com/rahul7532",
   resume:
-    "https://drive.google.com/file/d/1wT6xzUGU2mMfuN015B1Z2tSBZ3pMEcW7/view",
+    "https://drive.google.com/file/d/1QSI6-jBC45vsrP423yHfKK8SE00in3AT/view",
   linkedin: "https://www.linkedin.com/in/rahul-verma-97a425197/",
   stackoverflow: "https://stackoverflow.com/users/14672071/rahul-verma",
   
@@ -200,6 +200,7 @@ export const experiences = [
     company: "BIMAPLAN",
     date: "Apr 2024 - Present",
     location: "Bangalore, IN",
+    img:"https://d1y8p7q7i1xsv1.cloudfront.net/assets/common/footerLogo1x.webp",
     desc: [
       "Led a team of engineers to deliver critical projects under tight deadlines.",
       "Architected scalable solutions to handle increased traffic and data volumes.",
@@ -212,6 +213,7 @@ export const experiences = [
     company: "BIMAPLAN",
     date: "Apr 2023 - Mar 2024",
     location: "Bangalore, IN",
+    img:"https://d1y8p7q7i1xsv1.cloudfront.net/assets/common/footerLogo1x.webp",
     desc: [
       "Spearheaded the development of a microservices-based architecture.",
       "Optimized system performance by 30% through code refactoring and efficient resource management."
@@ -223,6 +225,7 @@ export const experiences = [
     company: "BIMAPLAN",
     date: "Jul 2021 - Mar 2023",
     location: "Bangalore, IN",
+    img:"https://d1y8p7q7i1xsv1.cloudfront.net/assets/common/footerLogo1x.webp",
     desc: [
       "Designed RESTful APIs and web services, enhancing performance and reliability.",
       "Seamlessly integrated third-party services for various functionalities."
@@ -234,6 +237,7 @@ export const experiences = [
     company: "Lithion Power",
     date: "Jan 2021 - Jul 2021",
     location: "New Delhi, IN",
+    img:require("../images/Lithtion-logo.png"),
     desc: [
       "Built RESTful API web services using Node.js.",
       "Developed an admin/internal portal dashboard using Angular."
@@ -255,7 +259,7 @@ export const education = [
     school: "CNS Inter College, Govind Nagar, Kanpur",
     date: "Apr 2016",
     desc: "I completed my class 12 high school education at CNS Inter College, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    degree: "UP Board(XII), in Physics, Chemistry, and Mathematics (PCM)",
   }
 ];
 
