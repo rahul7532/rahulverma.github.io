@@ -200,7 +200,7 @@ export const experiences = [
     company: "BIMAPLAN",
     date: "Apr 2024 - Present",
     location: "Bangalore, IN",
-    img:"https://d1y8p7q7i1xsv1.cloudfront.net/assets/common/footerLogo1x.webp",
+    img: require("../images/bima-logo.webp"),
     desc: [
       "Led a team of engineers to deliver critical projects under tight deadlines.",
       "Architected scalable solutions to handle increased traffic and data volumes.",
@@ -213,7 +213,7 @@ export const experiences = [
     company: "BIMAPLAN",
     date: "Apr 2023 - Mar 2024",
     location: "Bangalore, IN",
-    img:"https://d1y8p7q7i1xsv1.cloudfront.net/assets/common/footerLogo1x.webp",
+    img: require("../images/bima-logo.webp"),
     desc: [
       "Spearheaded the development of a microservices-based architecture.",
       "Optimized system performance by 30% through code refactoring and efficient resource management."
@@ -225,7 +225,7 @@ export const experiences = [
     company: "BIMAPLAN",
     date: "Jul 2021 - Mar 2023",
     location: "Bangalore, IN",
-    img:"https://d1y8p7q7i1xsv1.cloudfront.net/assets/common/footerLogo1x.webp",
+    img: require("../images/bima-logo.webp"),
     desc: [
       "Designed RESTful APIs and web services, enhancing performance and reliability.",
       "Seamlessly integrated third-party services for various functionalities."
@@ -237,7 +237,7 @@ export const experiences = [
     company: "Lithion Power",
     date: "Jan 2021 - Jul 2021",
     location: "New Delhi, IN",
-    img:require("../images/Lithtion-logo.png"),
+    img:"https://lithion.in/wp-content/uploads/2022/07/cropped-Lithionlogo-2048x367.png",
     desc: [
       "Built RESTful API web services using Node.js.",
       "Developed an admin/internal portal dashboard using Angular."
@@ -259,9 +259,9 @@ export const education = [
     id: 1,
     school: "CNS Inter College, Govind Nagar, Kanpur",
     date: "Apr 2016",
-    desc: "I completed my class 12 high school education at CNS Inter College, where I studied Science with Computer Science.",
+    desc: "I completed my class 12 high school education at CNS Inter College, where I studied Physics, Chemistry, and Mathematics(PCM)",
     degree: "UP Board(XII), in Physics, Chemistry, and Mathematics (PCM)",
-    img:"https://directory.edugorilla.com/wp-content/upload…s/6/2018/04/86aa1d756612a91efd9b4fe120aa1044.jpeg"
+    img: require("../images/favicon.png")
   }
 ];
 
