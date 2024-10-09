@@ -102,7 +102,7 @@ const ExperienceCard = ({ experience }) => {
           width="100%"
           height="100%"
           alt={experience.school}
-          style={{ borderRadius: "50%", objectFit: "cover" }}
+          style={{ borderRadius: "50%", objectFit: "contain" }}
           src={experience.img}
         />
       }
@@ -124,7 +124,7 @@ const ExperienceCard = ({ experience }) => {
       date={experience.date}
     >
       <Top>
-        <Image src={experience.img} />
+        {/* <Image src={experience.img} /> */}
         <Body>
           <Role>{experience.role}</Role>
           <Company>{experience.company}</Company>

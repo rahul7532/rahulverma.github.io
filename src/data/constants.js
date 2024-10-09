@@ -253,6 +253,7 @@ export const education = [
     date: "Jul 2017 - May 2021",
     desc: "I completed my Bachelor's degree in Computer Science and Engineering from IIITDM Jabalpur. My studies included courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Microservices. I was actively involved in clubs and participated in various technical events.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    img:"https://cache.careers360.mobi/media/colleges/social-media/268/2018/2/13/IIITDM-Jabalpur-Logo.jpg"
   },
   {
     id: 1,
@@ -260,6 +261,7 @@ export const education = [
     date: "Apr 2016",
     desc: "I completed my class 12 high school education at CNS Inter College, where I studied Science with Computer Science.",
     degree: "UP Board(XII), in Physics, Chemistry, and Mathematics (PCM)",
+    img:"https://directory.edugorilla.com/wp-content/upload…s/6/2018/04/86aa1d756612a91efd9b4fe120aa1044.jpeg"
   }
 ];
 
