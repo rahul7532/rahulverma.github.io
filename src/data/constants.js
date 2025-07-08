@@ -10,8 +10,8 @@ export const Bio = {
     "I am a dedicated and versatile software developer with a strong background in full-stack development and a passion for tackling new challenges. With expertise in C++, Java, and JavaScript frameworks, I strive to deliver high-quality results in every project. My positive attitude and growth mindset drive me to continually learn and adapt, making meaningful contributions to my team and achieving success together. I am excited to leverage my skills and experiences to create impactful solutions.",
   github: "https://github.com/rahul7532",
   resume:
-    "https://drive.google.com/file/d/1QSI6-jBC45vsrP423yHfKK8SE00in3AT/view",
-  linkedin: "https://www.linkedin.com/in/rahul-verma-97a425197/",
+    "https://drive.google.com/file/d/1cve6d_CWAA5Jl51zzzNx4j1jFN7NAbBz/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/rv7532/",
   stackoverflow: "https://stackoverflow.com/users/14672071/rahul-verma",
   
 };
