@@ -152,3 +152,19 @@ const ExperienceCard = ({ experience }) => {
 };
 
 export default ExperienceCard;
+
+
+
+// Hi Rajesh,
+
+// I hope you're doing well. I wanted to reach out as I'm exploring new software development opportunities. With 3+ years of experience in JavaScript frameworks (MERN/MEAN), I'd love to connect and see if there might be any suitable roles at Scapia.
+
+// Looking forward to connecting!
+
+// Best regards,
+// Rahul Verma
+
+// Hi Pallavi, I hope you're doing well. I'm exploring new software development opportunities (3+ years MERN/MEAN) and would love to connect to discuss any roles at Zepto. 
+
+// Best, Rahul Verma
+
